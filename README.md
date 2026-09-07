@@ -4,8 +4,8 @@ Security researcher & builder — privacy-first defensive tooling for Linux.
 
 ## What I build
 
-### [VIGIL](https://github.com/infinit3l00p/vigil) — eBPF-native EDR
-Endpoint Detection and Response with detection logic living in the kernel. Cross-view integrity (kernel vs `/proc`), temporal anomaly detection, self-integrity — built to resist the EvilEDR attack class. Ships with a rootkit simulator so every claim is reproducible.
+### [VIGIL](https://github.com/infinit3l00p/vigil) — eBPF-native EDR (v0.8.0)
+Endpoint Detection and Response with detection logic living in the kernel. Cross-view integrity (kernel vs `/proc`), temporal anomaly detection, self-integrity — built to resist the EvilEDR attack class. v0.8 adds multi-host fleet mode, alert routing (webhook/Slack/Discord/Telegram/email), and ARM64 support. Ships with a rootkit simulator so every claim is reproducible.
 
 ![VIGIL Dashboard](https://raw.githubusercontent.com/infinit3l00p/vigil/master/docs/screenshots/dashboard.png)
 
