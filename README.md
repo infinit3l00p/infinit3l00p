@@ -1,6 +1,6 @@
 # Hi, I'm Dan Vladoiu 👋
 
-Security researcher & builder — privacy-first defensive tooling for Linux.
+Independent Security Researcher & Builder — Privacy-first defensive tooling for Linux.
 
 ## What I build
 
