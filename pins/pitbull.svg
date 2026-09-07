@@ -1,0 +1,13 @@
+<svg width="250" height="150" viewBox="0 0 250 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PITBULL">
+  <rect width="250" height="150" rx="10" fill="#1e130b"/>
+  <rect width="249" height="149" x="0.5" y="0.5" rx="10" fill="none" stroke="#4d3018" stroke-width="1"/>
+  <rect x="0" y="10" width="4" height="130" rx="2" fill="#ff6b35"/>
+  <circle cx="24" cy="30" r="7" fill="#ff6b35"/>
+  <text x="40" y="36" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ff6b35">PITBULL</text>
+  <text x="20" y="66" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#d4b09e">Autonomous Digital Explorer</text>
+  <text x="20" y="82" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#d4b09e">mapping hidden corners of</text>
+  <text x="20" y="98" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#d4b09e">the internet. Honeypots, Neo4j.</text>
+  <line x1="20" y1="112" x2="230" y2="112" stroke="#4d3018"/>
+  <circle cx="24" cy="128" r="4" fill="#3572A5"/>
+  <text x="34" y="132" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="9.5" fill="#a3806b">Python + React · Neo4j + Ollama</text>
+</svg>
